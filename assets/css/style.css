@@ -73,7 +73,7 @@ a {
 /* Seção para configuração dos elementos da página */
 
 .main-bg {
-    background-image: url(./img/main_bg.svg);
+    background-image: url(assets/img/main_bg.svg);
     background-position: center center;
     background-size: cover;
     color: var(--white-color);
